@@ -7,7 +7,7 @@ This app show how works the approximation of sub-optimal solutions (2-opt, 3-opt
 ![Tspdemo](tspdemo.gif)
 
 ### Build
-mvn package
+`mvn package`
 
 ### Launch
-java -jar tspdemo-3.0.jar
+`java -jar tspdemo-3.0.jar`
