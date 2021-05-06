@@ -1,9 +1,9 @@
 # Tspdemo
 
-A Java client-side application, based on Swing and Java SE 8.
+A Java client-side application, based on Swing and Java SE 8, that shows, in an interactive way, how the main "TSP related" heuristics works (Greedy, Convex-Hull, etc.).
+This app show how works the approximation of sub-optimal solutions (2-opt, 3-opt) and calculate lower-bound (Held-Karp) for a given instance.
 
-It aims to show, in a visual way, the functioning of the main heuristics for the search for solutions to the "Traveling Salesman Problem". 
-
-The approximation of sub-optimal solutions, the search for lower-bounds.
 
 ![Tspdemo](tspdemo.gif)
+
+
